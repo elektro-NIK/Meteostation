@@ -7,7 +7,9 @@ Will work: keyboard, external EEPROM, sensors, wireless connection, ethernet
 
 For compiling project:
   make
+  
 For clean project directory:
   make clean
+  
 For flash MCU:
   make prog
