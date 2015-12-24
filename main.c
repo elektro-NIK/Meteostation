@@ -1,8 +1,5 @@
 #define F_CPU         16000000UL
-#define EEPROM_ADDR   0x50
-#define RTC_ADDR      0x68
 
-#include <stdint.h>
 #include <avr/interrupt.h>
 #include <util/delay.h>
 #include <avr/pgmspace.h>
